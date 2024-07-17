@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030211967217",
+    "project_id": "flutterrapp-c4d60",
+    "storage_bucket": "flutterrapp-c4d60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030211967217:android:f4f82ad8a8611917d03150",
+        "android_client_info": {
+          "package_name": "com.example.flutterr_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg3ut6nXSDcGY0lMPMVJQJNO7C2JVSexE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
